@@ -1,17 +1,17 @@
 {
-	"label": "Equipment - Armor",
+	"label": "Equipación - Armadura",
 	"entries": {
 		"Heavy Armor": {
-			"name": "Heavy Armor"
+			"name": "Armadura Pesada"
 		},
 		"Light Armor": {
-			"name": "Light Armor"
+			"name": "Armadura Ligera"
 		},
 		"Medium Armor": {
-			"name": "Medium Armor"
+			"name": "Armadura Mediana"
 		},
 		"Shield": {
-			"name": "Shield"
+			"name": "Escudo"
 		}
 	}
 }
