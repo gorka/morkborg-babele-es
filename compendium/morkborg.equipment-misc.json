@@ -1,174 +1,174 @@
 {
-	"label": "Equipment - Misc",
+	"label": "Equipamiento - Miscelaneo",
 	"entries": {
 		"Backpack": {
-			"name": "Backpack"
+			"name": "Mochila"
 		},
 		"Bear trap": {
-			"name": "Bear trap"
+			"name": "Trampa de oso"
 		},
 		"Blanket": {
-			"name": "Blanket",
+			"name": "Manta",
 			"description": ""
 		},
 		"Bomb": {
-			"name": "Bomb"
+			"name": "Bomba"
 		},
 		"Caltrops": {
-			"name": "Caltrops"
+			"name": "Abrojos"
 		},
 		"Chalk": {
-			"name": "Chalk",
+			"name": "Tiza",
 			"description": ""
 		},
 		"Chewing tobacco": {
-			"name": "Chewing tobacco",
+			"name": "Tabaco de mascar",
 			"description": ""
 		},
 		"Crowbar": {
-			"name": "Crowbar",
+			"name": "Palanca",
 			"description": ""
 		},
 		"Crucifix, silver": {
-			"name": "Crucifix, silver",
+			"name": "Crucifijo de plata",
 			"description": ""
 		},
 		"Crucifix, wooden": {
-			"name": "Crucifix, wooden",
+			"name": "Crucifijo de madera",
 			"description": ""
 		},
 		"Donkey": {
-			"name": "Donkey"
+			"name": "Burro"
 		},
 		"Dried food": {
-			"name": "Dried food"
+			"name": "Madera seca"
 		},
 		"Exquisite perfume": {
-			"name": "Exquisite perfume",
+			"name": "Perfume exquisito",
 			"description": ""
 		},
 		"Firesteel": {
-			"name": "Firesteel",
+			"name": "Pedernal",
 			"description": ""
 		},
 		"Grappling hook": {
-			"name": "Grappling hook",
+			"name": "Gancho con cuerda",
 			"description": ""
 		},
 		"Hammer": {
-			"name": "Hammer",
+			"name": "Martillo",
 			"description": ""
 		},
 		"Heavy chain": {
-			"name": "Heavy chain"
+			"name": "Cadena pesada"
 		},
 		"Iron nails": {
-			"name": "Iron nails"
+			"name": "Clavos de hierro"
 		},
 		"Ladder": {
-			"name": "Ladder",
+			"name": "Escalera",
 			"description": ""
 		},
 		"Lantern oil": {
-			"name": "Lantern oil"
+			"name": "Aceite para lamparas"
 		},
 		"Lard": {
-			"name": "Lard"
+			"name": "Manteca de cerdo"
 		},
 		"Large iron hook": {
-			"name": "Large iron hook",
+			"name": "Garfio de hierro grande",
 			"description": ""
 		},
 		"Life Elixir": {
-			"name": "Life Elixir"
+			"name": "Elixir de vida"
 		},
 		"Lockpicks": {
-			"name": "Lockpicks",
+			"name": "Ganzua",
 			"description": ""
 		},
 		"Magnesium strip": {
-			"name": "Magnesium strip",
+			"name": "Tira de magnesio",
 			"description": ""
 		},
 		"Manacles": {
-			"name": "Manacles",
+			"name": "Esposas",
 			"description": ""
 		},
 		"Mattress": {
-			"name": "Mattress",
+			"name": "Colchon",
 			"description": ""
 		},
 		"Meat Cleaver": {
-			"name": "Meat Cleaver",
+			"name": "Cuchillo de carnicero",
 			"description": ""
 		},
 		"Medicine box": {
-			"name": "Medicine box"
+			"name": "Botiquin"
 		},
 		"Metal file": {
-			"name": "Metal file",
+			"name": "Lima",
 			"description": ""
 		},
 		"Mirror": {
-			"name": "Mirror",
+			"name": "Espejo",
 			"description": ""
 		},
 		"Muzzle": {
-			"name": "Muzzle",
+			"name": "Bozal",
 			"description": ""
 		},
 		"Noose": {
-			"name": "Noose",
+			"name": "Cuerda de ahorcar",
 			"description": ""
 		},
 		"Oil lamp": {
-			"name": "Oil lamp",
+			"name": "Lampara de aceite",
 			"description": ""
 		},
 		"Poison (Black)": {
-			"name": "Poison (Black)"
+			"name": "Veneno Negro"
 		},
 		"Poison (Red)": {
-			"name": "Poison (Red)"
+			"name": "Veneno Rojo"
 		},
 		"Preserved corpse": {
-			"name": "Preserved corpse",
+			"name": "Cadaver preservado",
 			"description": ""
 		},
 		"Rope": {
-			"name": "Rope"
+			"name": "Cuerda"
 		},
 		"Sack": {
-			"name": "Sack"
+			"name": "Saco"
 		},
 		"Salt": {
-			"name": "Salt",
+			"name": "Sal",
 			"description": ""
 		},
 		"Scissors": {
-			"name": "Scissors",
+			"name": "Tijeras",
 			"description": ""
 		},
 		"Sharp needle": {
-			"name": "Sharp needle",
+			"name": "Aguja afilada",
 			"description": ""
 		},
 		"Small Wagon": {
-			"name": "Small Wagon"
+			"name": "Vagon Pequeño"
 		},
 		"Tent": {
-			"name": "Tent",
+			"name": "Tienda",
 			"description": ""
 		},
 		"Toolbox": {
-			"name": "Toolbox"
+			"name": "Caja de herramientas"
 		},
 		"Torch": {
-			"name": "Torch",
+			"name": "Antorcha",
 			"description": ""
 		},
 		"Waterskin": {
-			"name": "Waterskin"
+			"name": "Odre de agua"
 		}
 	}
 }
