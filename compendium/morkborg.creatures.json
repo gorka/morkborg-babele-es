@@ -1,5 +1,5 @@
 {
-	"label": "Creatures",
+	"label": "Monstruos",
 	"entries": {
 		"Berserker": {
 			"name": "Berserker"
@@ -8,31 +8,31 @@
 			"name": "Blood-Drenched Skeleton"
 		},
 		"Goblin": {
-			"name": "Goblin"
+			"name": "Trasgo"
 		},
 		"Grotesque": {
-			"name": "Grotesque"
+			"name": "Grotesco"
 		},
 		"Lich": {
-			"name": "Lich"
+			"name": "Liche"
 		},
 		"Scum": {
-			"name": "Scum"
+			"name": "Hediondo"
 		},
 		"Troll": {
 			"name": "Troll"
 		},
 		"Undead Doll": {
-			"name": "Undead Doll"
+			"name": "Muñeca no Muerta"
 		},
 		"Wickhead": {
 			"name": "Wickhead"
 		},
 		"Wraith": {
-			"name": "Wraith"
+			"name": "Aparición"
 		},
 		"Wyvern": {
-			"name": "Wyvern"
+			"name": "Wyverno"
 		},
 		"Zombie": {
 			"name": "Zombie"

@@ -1,8 +1,8 @@
 {
-	"label": "Class - Classless Adventurer",
+	"label": "Clase - Aventurero sin clase",
 	"entries": {
 		"Adventurer": {
-			"name": "Adventurer"
+			"name": "Aventurero"
 		}
 	}
 }
