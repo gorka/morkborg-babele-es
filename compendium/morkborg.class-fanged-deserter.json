@@ -1,0 +1,32 @@
+{
+	"label": "Class - Fanged Deserter",
+	"entries": {
+		"Bite Attack": {
+			"name": "Bite Attack"
+		},
+		"Clumsy": {
+			"name": "Clumsy"
+		},
+		"Crumpled Monster Mask": {
+			"name": "Crumpled Monster Mask"
+		},
+		"Fanged Deserter": {
+			"name": "Fanged Deserter"
+		},
+		"Illiterate": {
+			"name": "Illiterate"
+		},
+		"Old Sigûrd’s sling": {
+			"name": "Old Sigûrd’s sling"
+		},
+		"The Brown Scimitar of Galgenbeck": {
+			"name": "The Brown Scimitar of Galgenbeck"
+		},
+		"The Shoe of Death's Horse": {
+			"name": "The Shoe of Death's Horse"
+		},
+		"Wizard Teeth": {
+			"name": "Wizard Teeth"
+		}
+	}
+}

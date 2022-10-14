@@ -1,0 +1,94 @@
+{
+	"label": "Equipment - Weapons",
+	"entries": {
+		"Arrow": {
+			"name": "Arrow",
+			"description": ""
+		},
+		"Battle axe": {
+			"name": "Battle axe",
+			"description": ""
+		},
+		"Bolt": {
+			"name": "Bolt",
+			"description": ""
+		},
+		"Bow": {
+			"name": "Bow",
+			"description": ""
+		},
+		"Club": {
+			"name": "Club",
+			"description": ""
+		},
+		"Crossbow": {
+			"name": "Crossbow",
+			"description": ""
+		},
+		"Femur": {
+			"name": "Femur",
+			"description": ""
+		},
+		"Flail": {
+			"name": "Flail",
+			"description": ""
+		},
+		"Handaxe": {
+			"name": "Handaxe",
+			"description": ""
+		},
+		"Hook Hand": {
+			"name": "Hook Hand"
+		},
+		"Improvised Weapon": {
+			"name": "Improvised Weapon"
+		},
+		"Knife": {
+			"name": "Knife",
+			"description": ""
+		},
+		"Mace": {
+			"name": "Mace",
+			"description": ""
+		},
+		"Shortbow": {
+			"name": "Shortbow",
+			"description": ""
+		},
+		"Shortsword": {
+			"name": "Shortsword",
+			"description": ""
+		},
+		"Sling": {
+			"name": "Sling",
+			"description": ""
+		},
+		"Sling stone": {
+			"name": "Sling stone"
+		},
+		"Staff": {
+			"name": "Staff",
+			"description": ""
+		},
+		"Sword": {
+			"name": "Sword",
+			"description": ""
+		},
+		"Unarmed": {
+			"name": "Unarmed",
+			"description": ""
+		},
+		"Warhammer": {
+			"name": "Warhammer",
+			"description": ""
+		},
+		"Whip": {
+			"name": "Whip",
+			"description": ""
+		},
+		"Zweihänder": {
+			"name": "Zweihänder",
+			"description": ""
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"label": "Equipment - Armor",
+	"entries": {
+		"Heavy Armor": {
+			"name": "Heavy Armor"
+		},
+		"Light Armor": {
+			"name": "Light Armor"
+		},
+		"Medium Armor": {
+			"name": "Medium Armor"
+		},
+		"Shield": {
+			"name": "Shield"
+		}
+	}
+}

@@ -1,0 +1,174 @@
+{
+	"label": "Equipment - Misc",
+	"entries": {
+		"Backpack": {
+			"name": "Backpack"
+		},
+		"Bear trap": {
+			"name": "Bear trap"
+		},
+		"Blanket": {
+			"name": "Blanket",
+			"description": ""
+		},
+		"Bomb": {
+			"name": "Bomb"
+		},
+		"Caltrops": {
+			"name": "Caltrops"
+		},
+		"Chalk": {
+			"name": "Chalk",
+			"description": ""
+		},
+		"Chewing tobacco": {
+			"name": "Chewing tobacco",
+			"description": ""
+		},
+		"Crowbar": {
+			"name": "Crowbar",
+			"description": ""
+		},
+		"Crucifix, silver": {
+			"name": "Crucifix, silver",
+			"description": ""
+		},
+		"Crucifix, wooden": {
+			"name": "Crucifix, wooden",
+			"description": ""
+		},
+		"Donkey": {
+			"name": "Donkey"
+		},
+		"Dried food": {
+			"name": "Dried food"
+		},
+		"Exquisite perfume": {
+			"name": "Exquisite perfume",
+			"description": ""
+		},
+		"Firesteel": {
+			"name": "Firesteel",
+			"description": ""
+		},
+		"Grappling hook": {
+			"name": "Grappling hook",
+			"description": ""
+		},
+		"Hammer": {
+			"name": "Hammer",
+			"description": ""
+		},
+		"Heavy chain": {
+			"name": "Heavy chain"
+		},
+		"Iron nails": {
+			"name": "Iron nails"
+		},
+		"Ladder": {
+			"name": "Ladder",
+			"description": ""
+		},
+		"Lantern oil": {
+			"name": "Lantern oil"
+		},
+		"Lard": {
+			"name": "Lard"
+		},
+		"Large iron hook": {
+			"name": "Large iron hook",
+			"description": ""
+		},
+		"Life Elixir": {
+			"name": "Life Elixir"
+		},
+		"Lockpicks": {
+			"name": "Lockpicks",
+			"description": ""
+		},
+		"Magnesium strip": {
+			"name": "Magnesium strip",
+			"description": ""
+		},
+		"Manacles": {
+			"name": "Manacles",
+			"description": ""
+		},
+		"Mattress": {
+			"name": "Mattress",
+			"description": ""
+		},
+		"Meat Cleaver": {
+			"name": "Meat Cleaver",
+			"description": ""
+		},
+		"Medicine box": {
+			"name": "Medicine box"
+		},
+		"Metal file": {
+			"name": "Metal file",
+			"description": ""
+		},
+		"Mirror": {
+			"name": "Mirror",
+			"description": ""
+		},
+		"Muzzle": {
+			"name": "Muzzle",
+			"description": ""
+		},
+		"Noose": {
+			"name": "Noose",
+			"description": ""
+		},
+		"Oil lamp": {
+			"name": "Oil lamp",
+			"description": ""
+		},
+		"Poison (Black)": {
+			"name": "Poison (Black)"
+		},
+		"Poison (Red)": {
+			"name": "Poison (Red)"
+		},
+		"Preserved corpse": {
+			"name": "Preserved corpse",
+			"description": ""
+		},
+		"Rope": {
+			"name": "Rope"
+		},
+		"Sack": {
+			"name": "Sack"
+		},
+		"Salt": {
+			"name": "Salt",
+			"description": ""
+		},
+		"Scissors": {
+			"name": "Scissors",
+			"description": ""
+		},
+		"Sharp needle": {
+			"name": "Sharp needle",
+			"description": ""
+		},
+		"Small Wagon": {
+			"name": "Small Wagon"
+		},
+		"Tent": {
+			"name": "Tent",
+			"description": ""
+		},
+		"Toolbox": {
+			"name": "Toolbox"
+		},
+		"Torch": {
+			"name": "Torch",
+			"description": ""
+		},
+		"Waterskin": {
+			"name": "Waterskin"
+		}
+	}
+}

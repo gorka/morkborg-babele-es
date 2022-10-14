@@ -1,0 +1,11 @@
+{
+	"label": "Contenedores",
+	"entries": {
+		"Donkey": {
+			"name": "Burro"
+		},
+		"Small Wagon": {
+			"name": "Vagón Pequeño"
+		}
+	}
+}

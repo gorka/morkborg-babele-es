@@ -1,0 +1,38 @@
+{
+	"label": "Class - Occult Herbmaster",
+	"entries": {
+		"Black Poison": {
+			"name": "Black Poison"
+		},
+		"Create Decoctions": {
+			"name": "Create Decoctions"
+		},
+		"Elixir Vitalis": {
+			"name": "Elixir Vitalis"
+		},
+		"Ezumiels Vapor": {
+			"name": "Ezumiels Vapor"
+		},
+		"Fernor's Philtre": {
+			"name": "Fernor's Philtre"
+		},
+		"Hyphos' Enervating Snuff": {
+			"name": "Hyphos' Enervating Snuff"
+		},
+		"Occult Herbmaster": {
+			"name": "Occult Herbmaster"
+		},
+		"Portable Laboratory": {
+			"name": "Portable Laboratory"
+		},
+		"Red Poison": {
+			"name": "Red Poison"
+		},
+		"Southern Frog Stew": {
+			"name": "Southern Frog Stew"
+		},
+		"Spider-Owl Soup": {
+			"name": "Spider-Owl Soup"
+		}
+	}
+}

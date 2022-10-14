@@ -1,0 +1,65 @@
+{
+	"label": "Equipment - Scrolls",
+	"entries": {
+		"Aegis of Sorrow": {
+			"name": "Aegis of Sorrow"
+		},
+		"Bestial Speech": {
+			"name": "Bestial Speech"
+		},
+		"Daemon of Capillaries": {
+			"name": "Daemon of Capillaries"
+		},
+		"Death": {
+			"name": "Death"
+		},
+		"Enochian Syntax": {
+			"name": "Enochian Syntax"
+		},
+		"Eyelid Blinds the Mind": {
+			"name": "Eyelid Blinds the Mind"
+		},
+		"False Dawn / Night's Chariot": {
+			"name": "False Dawn / Night's Chariot"
+		},
+		"Foul Psychopomp": {
+			"name": "Foul Psychopomp"
+		},
+		"Grace for a Sinner": {
+			"name": "Grace for a Sinner"
+		},
+		"Grace of a Dead Saint": {
+			"name": "Grace of a Dead Saint"
+		},
+		"Hermetic Step": {
+			"name": "Hermetic Step"
+		},
+		"Lucy-fires Levitation": {
+			"name": "Lucy-fires Levitation"
+		},
+		"Metzhuotl Blind Your Eye": {
+			"name": "Metzhuotl Blind Your Eye"
+		},
+		"Nine Violet Signs Unknot the Storm": {
+			"name": "Nine Violet Signs Unknot the Storm"
+		},
+		"Palms Open the Southern Gate": {
+			"name": "Palms Open the Southern Gate"
+		},
+		"Roskoe's Consuming Glare": {
+			"name": "Roskoe's Consuming Glare"
+		},
+		"Te-le-kin-esis": {
+			"name": "Te-le-kin-esis"
+		},
+		"Tongue of Eris": {
+			"name": "Tongue of Eris"
+		},
+		"Unmet Fate": {
+			"name": "Unmet Fate"
+		},
+		"Whispers Pass the Gate": {
+			"name": "Whispers Pass the Gate"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"label": "Creatures",
+	"entries": {
+		"Berserker": {
+			"name": "Berserker"
+		},
+		"Blood-Drenched Skeleton": {
+			"name": "Blood-Drenched Skeleton"
+		},
+		"Goblin": {
+			"name": "Goblin"
+		},
+		"Grotesque": {
+			"name": "Grotesque"
+		},
+		"Lich": {
+			"name": "Lich"
+		},
+		"Scum": {
+			"name": "Scum"
+		},
+		"Troll": {
+			"name": "Troll"
+		},
+		"Undead Doll": {
+			"name": "Undead Doll"
+		},
+		"Wickhead": {
+			"name": "Wickhead"
+		},
+		"Wraith": {
+			"name": "Wraith"
+		},
+		"Wyvern": {
+			"name": "Wyvern"
+		},
+		"Zombie": {
+			"name": "Zombie"
+		}
+	}
+}

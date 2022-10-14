@@ -1,0 +1,44 @@
+{
+  "id": "morkborg-babele-es",
+  "title": "Translation: Spanish Babele [Mörk Borg and Compendiums]",
+  "description": "Traducción al español del sistema y los compendios de Mörk Borg para Foundry VTT.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "gorkula"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.288"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "morkborg",
+        "type": "system",
+        "manifest": "https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/releases/latest/download/system.json",
+        "compatibility": {
+          "verified": "2.1.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "verified": "2.3.1"
+        }
+      }
+    ]
+  }, 
+  "scripts": ["babele-register.js"],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "lang/es.json"
+    }
+  ]
+}

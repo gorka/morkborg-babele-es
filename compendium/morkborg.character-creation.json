@@ -1,0 +1,41 @@
+{
+	"label": "Character Creation",
+	"entries": {
+		"Badder Habits": {
+			"name": "Badder Habits",
+			"description": ""
+		},
+		"Brokener Bodies": {
+			"name": "Brokener Bodies",
+			"description": ""
+		},
+		"Starting Armor": {
+			"name": "Starting Armor",
+			"description": ""
+		},
+		"Starting Equipment (1)": {
+			"name": "Starting Equipment (1)",
+			"description": ""
+		},
+		"Starting Equipment (1) All Items": {
+			"name": "Starting Equipment (1) All Items",
+			"description": ""
+		},
+		"Starting Equipment (2)": {
+			"name": "Starting Equipment (2)",
+			"description": ""
+		},
+		"Starting Equipment (3)": {
+			"name": "Starting Equipment (3)",
+			"description": ""
+		},
+		"Starting Weapon": {
+			"name": "Starting Weapon",
+			"description": ""
+		},
+		"Terribler Traits": {
+			"name": "Terribler Traits",
+			"description": ""
+		}
+	}
+}

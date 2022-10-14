@@ -1,0 +1,19 @@
+{
+	"label": "Follower Items",
+	"entries": {
+		"Gore-hound Bite": {
+			"name": "Gore-hound Bite"
+		},
+		"Hawk Talons": {
+			"name": "Hawk Talons"
+		},
+		"Monkey Punch": {
+			"name": "Monkey Punch",
+			"description": ""
+		},
+		"Small Dog Bite": {
+			"name": "Small Dog Bite",
+			"description": ""
+		}
+	}
+}
