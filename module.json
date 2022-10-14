@@ -40,5 +40,8 @@
       "name": "Spanish",
       "path": "lang/es.json"
     }
-  ]
+  ],
+  "url": "https://github.com/gorka/morkborg-babele-es",
+  "manifest": "https://raw.githubusercontent.com/gorka/morkborg-babele-es/master/module.json",
+  "download": "https://github.com/gorka/morkborg-babele-es/archive/main.zip"
 }
