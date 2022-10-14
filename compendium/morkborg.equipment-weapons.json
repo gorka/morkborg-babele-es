@@ -1,89 +1,89 @@
 {
-	"label": "Equipment - Weapons",
+	"label": "Equipación - Armas",
 	"entries": {
 		"Arrow": {
-			"name": "Arrow",
+			"name": "Flecha",
 			"description": ""
 		},
 		"Battle axe": {
-			"name": "Battle axe",
+			"name": "Hacha de guerra",
 			"description": ""
 		},
 		"Bolt": {
-			"name": "Bolt",
+			"name": "Virote",
 			"description": ""
 		},
 		"Bow": {
-			"name": "Bow",
+			"name": "Arco",
 			"description": ""
 		},
 		"Club": {
-			"name": "Club",
+			"name": "Garrote",
 			"description": ""
 		},
 		"Crossbow": {
-			"name": "Crossbow",
+			"name": "Ballesta",
 			"description": ""
 		},
 		"Femur": {
-			"name": "Femur",
+			"name": "Fémur",
 			"description": ""
 		},
 		"Flail": {
-			"name": "Flail",
+			"name": "Mangual",
 			"description": ""
 		},
 		"Handaxe": {
-			"name": "Handaxe",
+			"name": "Hacha de mano",
 			"description": ""
 		},
 		"Hook Hand": {
-			"name": "Hook Hand"
+			"name": "Garfio"
 		},
 		"Improvised Weapon": {
-			"name": "Improvised Weapon"
+			"name": "Arma Improvisada"
 		},
 		"Knife": {
-			"name": "Knife",
+			"name": "Cuchillo",
 			"description": ""
 		},
 		"Mace": {
-			"name": "Mace",
+			"name": "Maza",
 			"description": ""
 		},
 		"Shortbow": {
-			"name": "Shortbow",
+			"name": "Arco Corto",
 			"description": ""
 		},
 		"Shortsword": {
-			"name": "Shortsword",
+			"name": "Espada corta",
 			"description": ""
 		},
 		"Sling": {
-			"name": "Sling",
+			"name": "Honda",
 			"description": ""
 		},
 		"Sling stone": {
-			"name": "Sling stone"
+			"name": "Piedra de honda"
 		},
 		"Staff": {
-			"name": "Staff",
+			"name": "Bastón",
 			"description": ""
 		},
 		"Sword": {
-			"name": "Sword",
+			"name": "Espada",
 			"description": ""
 		},
 		"Unarmed": {
-			"name": "Unarmed",
+			"name": "Desarmado",
 			"description": ""
 		},
 		"Warhammer": {
-			"name": "Warhammer",
+			"name": "Martillo de Guerra",
 			"description": ""
 		},
 		"Whip": {
-			"name": "Whip",
+			"name": "Látigo",
 			"description": ""
 		},
 		"Zweihänder": {
