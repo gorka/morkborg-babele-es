@@ -1,26 +1,26 @@
 {
-	"label": "Class - Esoteric Hermit",
+	"label": "Clase - Ermitaño esotérico",
 	"entries": {
 		"A Book of Boiling Blood": {
-			"name": "A Book of Boiling Blood"
+			"name": "Un libro de sangre hirviendo"
 		},
 		"Bard of the Undying": {
-			"name": "Bard of the Undying"
+			"name": "Bardo de los no muertos"
 		},
 		"Esoteric Hermit": {
-			"name": "Esoteric Hermit"
+			"name": "Ermitaño esotérico"
 		},
 		"Harp of the Undying": {
-			"name": "Harp of the Undying"
+			"name": "Arpa de los no muertos"
 		},
 		"Initiate of the Invisible College": {
-			"name": "Initiate of the Invisible College"
+			"name": "Iniciado del colegio de la invisivilidad"
 		},
 		"Master of Fate": {
-			"name": "Master of Fate"
+			"name": "Maestro del destino"
 		},
 		"Speaker of Truths": {
-			"name": "Speaker of Truths"
+			"name": "La voz de la verdad"
 		}
 	}
 }
